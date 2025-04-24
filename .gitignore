@@ -1,0 +1,15 @@
+# Terraform files to ignore
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+crash.log
+*.tfvars
+*.tfvars.json
+
+# Optional editor junk
+*.log
+*.bak
+*.swp
+.DS_Store
+
